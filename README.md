@@ -2,7 +2,7 @@
 
 A mobile-first, single-page invitation site with a pastel opening screen, a playful escaping **NO** button, and a full-screen dancing-cat celebration for **YES**.
 
-**Live site:** https://KhaledOtoom.github.io/valorant-duo-invitation/
+**Live site:** https://khaledotoom.github.io/secrethehe
 
 ## Project
 
